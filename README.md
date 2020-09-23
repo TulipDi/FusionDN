@@ -16,6 +16,12 @@ It is a unified model for multiple image fusion tasks, including:<br>
 2) multi-exposure image fusion<br>
 3) multi-focus image fusion<br>
 
+## Requirement
+tensorflow 1.15.0
+python 3.6
+
+## install
+pip install -r requirement.txt 
 
 ## Framework:<br>
  Overall procedure:<br>
