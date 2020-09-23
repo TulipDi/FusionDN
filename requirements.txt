@@ -1,0 +1,7 @@
+matplotlib
+imageio
+scikit-image
+IPython
+chainer
+cupy
+prompt-toolkit==2.0.10
