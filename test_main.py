@@ -7,7 +7,8 @@ import matplotlib.pyplot as plt
 import tensorflow as tf
 import scipy.ndimage
 from Generator import Generator
-from scipy.misc import imread, imsave
+#from scipy.misc import imread, imsave
+from imageio import imread, imsave
 
 from skimage import transform, data
 from glob import glob
